@@ -1,0 +1,11 @@
+p,q,r,s
+a,b
+p
+r
+p,a:r
+p,&:q
+p,&:s
+q,a:r
+s,a:r
+r,b:r
+q,a:p
